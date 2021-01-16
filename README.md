@@ -17,7 +17,7 @@
 * Real-time comunication across multiple channels
 * Full Yoti integration
 * Able to restrict rooms based on Yoti profile
-* 1st time using React/Redux/Immutable
+* 1st time using React/Redux/Immutable (applies to corbenshiro as well as the original author phobos101)
 
 
 ## Challenges to overcome
