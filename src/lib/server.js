@@ -8,7 +8,7 @@ import bodyParser from 'body-parser'
 import helmet from 'helmet'
 import cors from 'cors'
 import session from 'express-session'
-import YotiClient from 'yoti-node-sdk'
+import YotiClient from 'yoti'
 import router from '../routes'
 import config from '../config'
 
