@@ -32,9 +32,7 @@ export default function serverSetup(server) {
                 extended: true
             }))
 
-            server.use(helmet({
-                noSniff: true
-            }))
+            server.use(helmet())
 
             server.use(cors())
 
