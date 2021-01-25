@@ -28,13 +28,24 @@
 * Somehow call the API in the controller (middleware) instead of Axiom (Axiom is nice though)
 * Make it look nicer
 
+#### Before you or even I can use this project: I need to get the compiled JavaScript to properly call Winston 3 (contemplating downgrading back to Winston 2 which is still a supported package: https://github.com/winstonjs/winston/tree/2.x)
+
 
 ## Bugs
 
 * View not updating when changing room (but new messages ingress/egress WILL be published there)
 
 
-## Running the app
+## Building the application
+
+Compilation:
+
+```bash
+$ npm run build
+```
+
+
+## Running the application
 
 Development:
 
