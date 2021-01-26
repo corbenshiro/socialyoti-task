@@ -10,3 +10,4 @@ node_modules
 dist
 coverage
 benchmarks
+src/lib/keys/yoti-login.pem
