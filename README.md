@@ -28,7 +28,7 @@
 * Somehow call the API in the controller (middleware) instead of Axiom (Axiom is nice though)
 * Make it look nicer
 
-#### Before you or even I can use this project: I need to get the compiled JavaScript to properly call Yoti (check logs/welp for more info)
+#### Before you or even I can use this project: I need to get the transcompiled JavaScript to properly call Yoti (check logs/welp for more info)
 
 
 ## Bugs
@@ -38,7 +38,7 @@
 
 ## Building the application
 
-Compilation:
+Transcompilation:
 
 ```bash
 $ npm run build
